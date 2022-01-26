@@ -1,0 +1,15 @@
+name = "script-kit-kv"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-01-25"
+
+kv_namespaces = [ 
+    { binding = "SCRIPT_KIT_KV", preview_id = "6099fdcb1e7e40b39021257c6d8256d9", id = "379bcabe4ec34ad6975945f59bb1cfa7" }
+]
+
+[secrets]
+# SCRIPT_KIT_KV_TOKEN
